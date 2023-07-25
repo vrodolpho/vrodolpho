@@ -32,4 +32,4 @@ I’m currently learning developer, creative coder and 🎓graduated in Informat
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
 
 ## I’m looking to collaborate on project!&nbsp;
-Check out my [DIO](https://www.notion.so/rodolpho-dev/Git-b1adf483244d45d48df7aa759c6f543d?pvs=4)
+Check out my plan! [Notion](https://www.notion.so/rodolpho-dev/Git-b1adf483244d45d48df7aa759c6f543d?pvs=4)
