@@ -2,14 +2,14 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagnerrodolpho/)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vrodolpho/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodolphofdev@gmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodolphofdev@gmail.com)&nbsp;
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/vrodolpho)&nbsp;
 
 ### 🎯 Developer Trainee
 
-Hey there 👋
+Hey there...I’m Vagner!👋
 
-I’m Vagner. I currently learning developer, creative coder and 🎓graduated in Information System. I specialize in Python and Javascript solutions.🌱
+I’m currently learning developer, creative coder and 🎓graduated in Information System. I specialize in Python and Javascript solutions.🌱
 
 ***
 ## 🛠 &nbsp;Tech Stack
