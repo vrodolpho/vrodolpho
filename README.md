@@ -33,3 +33,8 @@ I’m currently learning developer, creative coder and 🎓graduated in Informat
 
 ## I’m looking to collaborate on project!&nbsp;
 Check out my plan! [Notion](https://www.notion.so/rodolpho-dev/Git-b1adf483244d45d48df7aa759c6f543d?pvs=4)
+
+## 📊 My GitHub stats
+  
+![Vrodolpho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrodolpho&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
+![Vrodolpho's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrodolpho&card_width=1060&layout=normal&theme=github_dark)
