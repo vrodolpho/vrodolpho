@@ -47,6 +47,9 @@ I’m currently learning developer, creative coder and 🎓graduated in Informat
 Check out my plan! [Notion](https://www.notion.so/rodolpho-dev/Git-b1adf483244d45d48df7aa759c6f543d?pvs=4)
 
 ## 📊 My GitHub stats
-  
-![Vrodolpho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrodolpho&hide_title=true&card_width=1060&line_height=29&show_icons=true&theme=github_dark)<br />
-![Vrodolpho's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrodolpho&card_width=1060&layout=normal&theme=github_dark)
+<div align="left">
+	<a href="https://github.com/vrodolpho/github-readme-stats" target = "_blank">
+		<img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vrodolpho&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly">
+	</a>
+	<img alt="Top Langs" height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vrodolpho&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832">
+</div>
