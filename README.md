@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodolphofdev@gmail.com)&nbsp;
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/vrodolpho)&nbsp;
 
-### 🎯 Developer Trainee
+### 🎯 Software Quality Analyst
 
 Hey there...I’m Vagner!👋
 
